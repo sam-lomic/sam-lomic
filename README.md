@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a *test*  README file
+
 <!--
 **sam-lomic/sam-lomic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
